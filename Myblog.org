@@ -1,0 +1,22 @@
+#+title: My Blog Test 
+#+author: Me
+
+* From Graph To Score 
+
+
+
+*** Vectors as notes
+\begin{equation}                       
+\vec{a}(1 2 3 ...)                             
+\end{equation} 
+
+#+BEGIN_SRC common-lisp +n
+;;This function will say hello
+(defun Hello ()
+       (print "Hello World!"))
+#+END_SRC
+
+Using "Scale" to provide a musical context for both parameters 
+
+
+
