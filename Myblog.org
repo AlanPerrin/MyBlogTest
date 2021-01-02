@@ -15,5 +15,7 @@
 #+END_SRC
 
 Using "Scale" to provide a musical context for both parameters 
-[[file:test.pdf]]
+
+look at the picture 
+[[file:test.png]]
 

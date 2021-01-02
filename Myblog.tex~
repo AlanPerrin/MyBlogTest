@@ -1,4 +1,4 @@
-% Created 2021-01-02 Sat 16:50
+% Created 2021-01-02 Sat 16:57
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -31,12 +31,12 @@
 
 
 \section{From Graph To Score}
-\label{sec:org878928f}
+\label{sec:org1b3cc40}
 
 
 
 \subsubsection{Vectors as notes}
-\label{sec:orgc11a6d9}
+\label{sec:orgd5cb33b}
 \begin{equation}                       
 \vec{a}(1 2 3 ...)                             
 \end{equation} 
@@ -48,10 +48,7 @@
 \end{verbatim}
 
 Using "Scale" to provide a musical context for both parameters 
-
-\begin{verbatim}
-\relative c' {
-  g a b c d e f g f e d c b a g a b c d e f g f e d c b a g1
-}
-\end{verbatim}
+\begin{center}
+\includegraphics[width=.9\linewidth]{test.pdf}
+\end{center}
 \end{document}
