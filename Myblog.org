@@ -19,3 +19,5 @@ Using "Scale" to provide a musical context for both parameters
 look at the picture 
 [[file:test.png]]
 
+Oh! check out this SVG:
+[[file:graphtest.svg]]
