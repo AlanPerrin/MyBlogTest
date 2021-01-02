@@ -3,8 +3,6 @@
 
 * From Graph To Score 
 
-
-
 *** Vectors as notes
 \begin{equation}                       
 \vec{a}(1 2 3 ...)                             
@@ -17,6 +15,5 @@
 #+END_SRC
 
 Using "Scale" to provide a musical context for both parameters 
-
-
+[[file:test.pdf]]
 

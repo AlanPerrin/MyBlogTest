@@ -1,7 +1,7 @@
-% Created 2021-01-01 Fri 18:13
+% Created 2021-01-02 Sat 16:50
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
-\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{grffile}
@@ -31,21 +31,27 @@
 
 
 \section{From Graph To Score}
-\label{sec:org125b4ed}
+\label{sec:org878928f}
 
 
 
 \subsubsection{Vectors as notes}
-\label{sec:orgd6e99c7}
+\label{sec:orgc11a6d9}
 \begin{equation}                       
 \vec{a}(1 2 3 ...)                             
 \end{equation} 
 
 \begin{verbatim}
-;;This function will say hello
-(defun Hello ()
-       (print "Hello World!"))
+1  ;;This function will say hello
+2  (defun Hello ()
+3         (print "Hello World!"))
 \end{verbatim}
 
 Using "Scale" to provide a musical context for both parameters 
+
+\begin{verbatim}
+\relative c' {
+  g a b c d e f g f e d c b a g a b c d e f g f e d c b a g1
+}
+\end{verbatim}
 \end{document}
