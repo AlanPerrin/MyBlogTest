@@ -17,7 +17,7 @@
 Using "Scale" to provide a musical context for both parameters 
 
 look at the picture 
-[[file:test.png]]
+[[file:examples/me.svg]]
 
 Oh! check out this SVG:
-[[file:graphtest.svg]]
+[[file:examples/graphtest.svg]]
